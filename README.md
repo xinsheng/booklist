@@ -8,11 +8,13 @@ My personal list of books I am read and planning to read.
 ## Programming
 
 - [x] Code Complete [📖](https://www.goodreads.com/book/show/4845.Code_Complete)
+
 *I love this book very much.
 This book shows me one whole picture about programming activity. It's good for beginner, intermediate even advanced programmer.
 It gives you a guide to follow. When i finished this book, i feel it opens a window for me about developement.*
 
 - [x] Python Crash Course: A Hands-On, Project-Based Introduction to Programming [📖](https://www.goodreads.com/book/show/23241059-python-crash-course)
+
 *One book for beginner.
 It contains 3 simple projects that helps you understand python developement.
 I start to learn python for create some tools for my daily activities. This is a good book for beginner.*
@@ -31,5 +33,6 @@ I start to learn python for create some tools for my daily activities. This is a
 ## Health
 
 - [x] Eat Dirt: Why Leaky Gut May Be the Root Cause of Your Health Problems and 5 Surprising Steps to Cure It [Go](https://www.goodreads.com/book/show/25817770-eat-dirt)
+
 *Live a better live, you need a healthy life style.
 Keep close with wild environment.*
