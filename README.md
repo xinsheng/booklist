@@ -12,6 +12,8 @@ My personal list of books I am read and planning to read.
 - [ ] Effective Python: 59 Specific Ways to Write Better Python [📖](https://www.goodreads.com/book/show/23020812-effective-python)
 - [ ] Large-Scale C++ Software Design [📖](https://www.goodreads.com/book/show/1370617.Large_Scale_C_Software_Design)
 - [ ] Design Patterns: Elements of Reusable Object-Oriented Software [Go](https://www.goodreads.com/book/show/85009.Design_Patterns)
+- [ ] Refactoring: Improving the Design of Existing Code [Go](https://www.goodreads.com/book/show/44936.Refactoring)
+- [ ] Clean Code: A Handbook of Agile Software Craftsmanship [Go](https://www.goodreads.com/book/show/3735293-clean-code)
 
 ## History
 
